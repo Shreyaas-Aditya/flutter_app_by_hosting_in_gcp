@@ -2,8 +2,14 @@
 
 This Flutter app allows users to upload an image from their gallery to a server for prediction. It communicates with a backend hosted on Google Cloud Platform, which processes the image and returns the prediction along with its probability. The app then parses the HTML response and displays the prediction results on the screen.
 
-# features
+# Features
 
 <ul><li>Choose an image</li>
 <li>Upload an image to the server which is hosted in GCP</li>
 <li>Receive the prediction and display it with confidence score</li></ul>
+
+# Demo
+
+
+https://github.com/Shreyaas-Aditya/flutter_app_by_hosting_in_gcp/assets/150200835/e7421f66-7ac6-4881-8928-a164e2858bc7
+
