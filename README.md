@@ -4,6 +4,6 @@ This Flutter app allows users to upload an image from their gallery to a server 
 
 # features
 
-<ul><dl>Choose an image</dl>
-<dl>Upload an image to the server which is hosted in GCP</dl>
-<dl>Receive the prediction and display it with confidence score</dl></ul>
+<ul><li>Choose an image</li>
+<li>Upload an image to the server which is hosted in GCP</li>
+<li>Receive the prediction and display it with confidence score</li></ul>
