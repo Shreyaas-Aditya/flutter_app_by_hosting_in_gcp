@@ -10,6 +10,11 @@ This Flutter app allows users to upload an image from their gallery to a server 
 
 # Demo
 
-
 https://github.com/Shreyaas-Aditya/flutter_app_by_hosting_in_gcp/assets/150200835/e7421f66-7ac6-4881-8928-a164e2858bc7
+
+# Links
+<ul>
+  <li> GCP: https://https-5chgs2vmda-uc.a.run.app/upload</li>
+  <li> DOCKERHUB: https://hub.docker.com/r/shreyaasaditya13/flask_docker</li>
+</ul>
 
